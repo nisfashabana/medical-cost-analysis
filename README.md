@@ -11,7 +11,7 @@ This project is a comprehensive powerBI dashboard for analyzing medicalcosts bas
   2.DAX:For creating calculated measures and custom metrics.                                                                                            
   3.Python:For data preprocessing and cleaning.                                                                                                         
  ## Key Insights
-  1.Smokers inccur significantly higher medical costs compared to non-smokers.
+  1.Smokers inccur significantly higher medical costs compared to non-smokers.                                                                          
   2.Obesity is a major cos driver with higher BMI correlating to increased charges.                                                                 
   3.Southeast region has the highest average medical charges,while Southwest rerion has the lowest.                                                    
   4.Older age groups (especially 56+) contribute to higher medical charges.
